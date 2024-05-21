@@ -21,7 +21,7 @@ Leaderboard: Tracks and displays player scores, updating and sorting them dynami
 Restart and Leaderboard View: Players can restart the game or view the leaderboard after a game over.
 
 
-Code Explanation
+Code Explanation:
 
 
 Class Structure
